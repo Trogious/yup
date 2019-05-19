@@ -1,0 +1,8 @@
+{
+    "command": "./youtube-upload/bin/youtube-upload",
+    "secrets": "./youtube-upload/client_secrets.json",
+    "credentials": "./credentials.json",
+    "category": "Gaming",
+    "playlist": "Star Wars: The Old Republic",
+    "path": "./swtor"
+}
